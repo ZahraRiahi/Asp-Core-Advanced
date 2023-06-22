@@ -1,0 +1,15 @@
+D:\Asp Core Training\Exercise 2\Exercise 2\bin\Debug\net6.0\Exercise 2.exe
+D:\Asp Core Training\Exercise 2\Exercise 2\bin\Debug\net6.0\Exercise 2.deps.json
+D:\Asp Core Training\Exercise 2\Exercise 2\bin\Debug\net6.0\Exercise 2.runtimeconfig.json
+D:\Asp Core Training\Exercise 2\Exercise 2\bin\Debug\net6.0\Exercise 2.dll
+D:\Asp Core Training\Exercise 2\Exercise 2\bin\Debug\net6.0\Exercise 2.pdb
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.csproj.AssemblyReference.cache
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.AssemblyInfoInputs.cache
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.AssemblyInfo.cs
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.csproj.CoreCompileInputs.cache
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.dll
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\refint\Exercise 2.dll
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.pdb
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\Exercise 2.genruntimeconfig.cache
+D:\Asp Core Training\Exercise 2\Exercise 2\obj\Debug\net6.0\ref\Exercise 2.dll
