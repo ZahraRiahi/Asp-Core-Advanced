@@ -1,0 +1,15 @@
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.exe
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.deps.json
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.runtimeconfig.json
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.dll
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.pdb
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.AssemblyReference.cache
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfoInputs.cache
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfo.cs
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.CoreCompileInputs.cache
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.dll
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\refint\Exercise 4.dll
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.pdb
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.genruntimeconfig.cache
+D:\Asp Core Training\Exercise 4\Exercise 4\Exercise 4\obj\Debug\net6.0\ref\Exercise 4.dll
