@@ -10,6 +10,9 @@ namespace Exercise_2
     {
         string[] coursesName;
 
+        public Course()
+        {
+        }
 
         public Course(int numOfCourses)
         {

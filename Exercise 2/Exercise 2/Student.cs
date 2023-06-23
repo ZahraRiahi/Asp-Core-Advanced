@@ -10,7 +10,8 @@ namespace Exercise_2
     {
 
         public string name;
-        public Course course=new Course(3);
+        public Course course=new Course();
+
         public Teacher teacherName;
         public int grade { get; set; }
         public Student(string name)
@@ -18,20 +19,21 @@ namespace Exercise_2
             this.name = name;
         }
 
-        public void getGrades()
-    {
-        Console.WriteLine($"{name} Dear student,Enter the grades of courses :");
-        Console.WriteLine($"Math: {grade}");
-        Console.WriteLine($"Chemistry: {grade}");
-        Console.WriteLine($"Arabic: {grade}");
-    }
         public void printGrades()
-        {
-            Console.WriteLine($"{name} Dear student, the grades are as follows:");
-            Console.WriteLine($"Math: {grade}");
-            Console.WriteLine($"Chemistry: {grade}");
-            Console.WriteLine($"Arabic: {grade}");
-        }
+    {
+            Console.Write("please enter name of student:");
+            name = Console.ReadLine();
+            Console.Write("please enter grade of Math:");
+            int mathGrade = int.Parse(Console.ReadLine());
+            Console.Write("please enter grade of chemistry:");
+            int chemistryGrade = int.Parse(Console.ReadLine());
+            Console.Write("please enter grade of arabic:");
+            int arabicGrade = int.Parse(Console.ReadLine());
+            Console.WriteLine("the student's grades in the courses are as follows:");
+            Console.WriteLine($"Math: {mathGrade}");
+            Console.WriteLine($"Chemistry: {chemistryGrade}");
+            Console.WriteLine($"Arabic: {arabicGrade}");
+    }
 
     }
 }
