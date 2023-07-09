@@ -1,0 +1,18 @@
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\bin\Debug\net7.0\Exercise 3.exe
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\bin\Debug\net7.0\Exercise 3.deps.json
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\bin\Debug\net7.0\Exercise 3.runtimeconfig.json
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\bin\Debug\net7.0\Exercise 3.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\bin\Debug\net7.0\Exercise 3.pdb
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\bin\Debug\net7.0\Kavenegar.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.csproj.AssemblyReference.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.AssemblyInfoInputs.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.AssemblyInfo.cs
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.csproj.CopyComplete
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\refint\Exercise 3.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.pdb
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\Exercise 3.genruntimeconfig.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Exercise 3\obj\Debug\net7.0\ref\Exercise 3.dll

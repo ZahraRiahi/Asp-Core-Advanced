@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ct8MkgDmZUNlnQ2BgFT+57FMYsotuoAM7tmQZKuZSwTMBaxDVu2mj1WEOufmTPxKfap7s48RQSSHTRwUoApiog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Riahi\\Desktop\\New folder (11)\\Asp-Core-Advanced\\Exercise 3\\Exercise 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riahi\\.nuget\\packages\\kavenegar\\1.2.4\\kavenegar.1.2.4.nupkg.sha512",
+    "C:\\Users\\Riahi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
