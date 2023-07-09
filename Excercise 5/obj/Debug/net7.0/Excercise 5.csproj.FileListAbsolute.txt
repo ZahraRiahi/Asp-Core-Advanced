@@ -1,0 +1,15 @@
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\bin\Debug\net7.0\Excercise 5.exe
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\bin\Debug\net7.0\Excercise 5.deps.json
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\bin\Debug\net7.0\Excercise 5.runtimeconfig.json
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\bin\Debug\net7.0\Excercise 5.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\bin\Debug\net7.0\Excercise 5.pdb
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.csproj.AssemblyReference.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.AssemblyInfoInputs.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.AssemblyInfo.cs
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.csproj.CoreCompileInputs.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\refint\Excercise 5.dll
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.pdb
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\Excercise 5.genruntimeconfig.cache
+C:\Users\Riahi\Desktop\New folder (11)\Asp-Core-Advanced\Excercise 5\obj\Debug\net7.0\ref\Excercise 5.dll
