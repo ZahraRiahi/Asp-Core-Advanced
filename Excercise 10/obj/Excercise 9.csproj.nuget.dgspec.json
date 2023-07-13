@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "e:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\Excercise 9.csproj": {}
+  },
+  "projects": {
+    "e:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\Excercise 9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\Excercise 9.csproj",
+        "projectName": "Excercise 9",
+        "projectPath": "e:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\Excercise 9.csproj",
+        "packagesPath": "C:\\Users\\z.tajmirriahi\\.nuget\\packages\\",
+        "outputPath": "e:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\z.tajmirriahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "kavenegar": {
+              "target": "Package",
+              "version": "[1.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

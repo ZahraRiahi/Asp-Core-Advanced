@@ -1,0 +1,93 @@
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\appsettings.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\Excercise 9.staticwebassets.runtime.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\Excercise 9.exe
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\Excercise 9.deps.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\Excercise 9.runtimeconfig.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\Excercise 9.dll
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\bin\Debug\net7.0\Excercise 9.pdb
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.csproj.AssemblyReference.cache
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.AssemblyInfoInputs.cache
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.AssemblyInfo.cs
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.csproj.CoreCompileInputs.cache
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.RazorAssemblyInfo.cache
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.RazorAssemblyInfo.cs
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\staticwebassets\msbuild.Excercise 9.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\staticwebassets\msbuild.build.Excercise 9.props
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Excercise 9.props
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Excercise 9.props
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\scopedcss\bundle\Excercise 9.styles.css
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\scopedcss\projectbundle\Excercise 9.bundle.scp.css
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.dll
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\refint\Excercise 9.dll
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.pdb
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\Excercise 9.genruntimeconfig.cache
+C:\Users\Riahi\Desktop\New folder (11)\New folder\Asp-Core-Advanced\Excercise 9\obj\Debug\net7.0\ref\Excercise 9.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\appsettings.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.staticwebassets.runtime.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.exe
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.deps.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.runtimeconfig.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.pdb
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.csproj.AssemblyReference.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.AssemblyInfoInputs.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.AssemblyInfo.cs
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.csproj.CoreCompileInputs.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.RazorAssemblyInfo.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.RazorAssemblyInfo.cs
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.Excercise 9.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.build.Excercise 9.props
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Excercise 9.props
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Excercise 9.props
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\scopedcss\bundle\Excercise 9.styles.css
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\scopedcss\projectbundle\Excercise 9.bundle.scp.css
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\refint\Excercise 9.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.pdb
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.genruntimeconfig.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\ref\Excercise 9.dll
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\appsettings.Development.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\appsettings.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.staticwebassets.runtime.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.exe
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.deps.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.runtimeconfig.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.dll
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\bin\Debug\net7.0\Excercise 9.pdb
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.csproj.AssemblyReference.cache
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.AssemblyInfoInputs.cache
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.AssemblyInfo.cs
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.RazorAssemblyInfo.cache
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.RazorAssemblyInfo.cs
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.Excercise 9.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.build.Excercise 9.props
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Excercise 9.props
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Excercise 9.props
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets.pack.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets.build.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\staticwebassets.development.json
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\scopedcss\bundle\Excercise 9.styles.css
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\scopedcss\projectbundle\Excercise 9.bundle.scp.css
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.dll
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\refint\Excercise 9.dll
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.pdb
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\Excercise 9.genruntimeconfig.cache
+E:\New folder (2)\Asp-Core-Advanced\Excercise 10\obj\Debug\net7.0\ref\Excercise 9.dll

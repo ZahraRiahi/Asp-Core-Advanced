@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Excercise 9.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Excercise 9.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\images\\call-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\fb-icon.png",
+      "PackagePath": "staticwebassets\\images\\fb-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\icon1.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\images\\icon2.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\icon3.png",
+      "PackagePath": "staticwebassets\\images\\icon3.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-1.png",
+      "PackagePath": "staticwebassets\\images\\img-1.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-10.png",
+      "PackagePath": "staticwebassets\\images\\img-10.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-2.png",
+      "PackagePath": "staticwebassets\\images\\img-2.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-3.png",
+      "PackagePath": "staticwebassets\\images\\img-3.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-4.png",
+      "PackagePath": "staticwebassets\\images\\img-4.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-5.png",
+      "PackagePath": "staticwebassets\\images\\img-5.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-6.png",
+      "PackagePath": "staticwebassets\\images\\img-6.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-7.png",
+      "PackagePath": "staticwebassets\\images\\img-7.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-8.png",
+      "PackagePath": "staticwebassets\\images\\img-8.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\img-9.png",
+      "PackagePath": "staticwebassets\\images\\img-9.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\instagram-icon.png",
+      "PackagePath": "staticwebassets\\images\\instagram-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\images\\map-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\quick-icon.png",
+      "PackagePath": "staticwebassets\\images\\quick-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\services-bg.png",
+      "PackagePath": "staticwebassets\\images\\services-bg.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\social-icon.png",
+      "PackagePath": "staticwebassets\\images\\social-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\images\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\images\\twitter-icon.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\Asp-Core-Advanced\\Excercise 10\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Excercise 9.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Excercise 9.props",
+      "PackagePath": "build\\Excercise 9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Excercise 9.props",
+      "PackagePath": "buildMultiTargeting\\Excercise 9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Excercise 9.props",
+      "PackagePath": "buildTransitive\\Excercise 9.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
