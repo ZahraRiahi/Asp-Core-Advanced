@@ -6,11 +6,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
+
 
 //Add db context
- builder.Services.AddDbContext<Context>();
+builder.Services.AddDbContext<Context>();
   builder.Services.AddScoped<IProduct,Product>();
+  var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

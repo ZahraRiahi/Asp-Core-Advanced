@@ -40,7 +40,7 @@ public class Product : IProduct
         foreach (var item in listProducts)
         {
             MProduct product=new MProduct();
-            product.id=item.id;
+            product.Id=item.Id;
             product.ProductName=item.ProductName;
             product.Brand=item.Brand;
             product.Price=item.Price;
