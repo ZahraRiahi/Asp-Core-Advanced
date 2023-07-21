@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj": {}
+    "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Riahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Core\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Riahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

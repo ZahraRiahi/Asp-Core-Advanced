@@ -3214,19 +3214,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Riahi\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\App\\App.csproj",
-      "packagesPath": "C:\\Users\\Riahi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\App\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\App\\App.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Riahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3241,11 +3241,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Core\\Core.csproj"
             },
-            "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Riahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 11\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 11\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
