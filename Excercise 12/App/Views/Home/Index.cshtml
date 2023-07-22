@@ -36,8 +36,7 @@
 						<td>@item.Description</td>
                         <td>
                             <a href="#editProductModal" class="edit" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
-                            <a href="/home/deleteproduct/@item.Id" class="delete" data-toggle="modal" onclick='document.getElementById("#deleteProductModal")'><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
-			             @* <a href="#deleteProductModal" class="delete" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a> *@
+			               <a href="#deleteProductModal" class="delete" data-id="@item.Id" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
 
                         </td>
 						
@@ -173,8 +172,8 @@
 						<p class="text-warning"><small>This action cannot be undone.</small></p>
 					</div>
 					<div class="modal-footer">
-						<input type="button" class="btn btn-default" data-dismiss="modal" value="Cancel">
-						<input  type="submit" class="btn btn-danger" value="Delete">
+						<input id="cancelDeleteBtn" type="button" class="btn btn-default" data-dismiss="modal" value="Cancel">
+						<input  id="confirmDeleteBtn" type="submit" class="btn btn-danger" value="Delete">
 					</div>
 				</form>
 			</div>
