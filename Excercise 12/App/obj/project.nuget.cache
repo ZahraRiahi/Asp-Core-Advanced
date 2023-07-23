@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tv3j+1lhDenJpzJHL2Q2Ndt42hW1ucKOlqjsUIWYsyw/8aamikKRDwZ6+53U0JDdKA+ZZCEO2HYXFLUlm4O36g==",
+  "dgSpecHash": "NPfKJs/OTlzqW72moTQzGwxjnlUhRLdYeV/b0rVXnYcFSLz8XqbBq3KC8lmA6JRYcDiq45/Q5wDcM5mZKLx6Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\New folder\\Asp-Core-Advanced\\Excercise 12\\App\\App.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\dor\\Asp-Core-Advanced\\Excercise 12\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
