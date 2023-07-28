@@ -13,4 +13,7 @@ public interface IProduct{
 
     //Delete Product
     void DeleteProduct(int id);
+
+       //GetById Product
+    MProduct GetProductById(int id);
 }

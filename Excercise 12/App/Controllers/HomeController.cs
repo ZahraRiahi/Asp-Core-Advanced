@@ -29,6 +29,18 @@ public HomeController(IProduct product)
         _product.DeleteProduct(id);
         return RedirectToAction("index");
     }
+    public IActionResult edit(int id)
+    {
+      var product=_product.GetProductById(id);
+      return View(product);
+    }
+    public IActionResult editproduct(MProduct mProduct)
+    {
+      _product.UpdateProduct(mProduct);
+      return RedirectToAction("index");
+    }
+
+
     
 
 }

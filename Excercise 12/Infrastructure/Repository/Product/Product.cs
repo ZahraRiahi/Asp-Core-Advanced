@@ -1,7 +1,6 @@
 using Core.Domain.Product;
-using Core.Interface.Product;
 using Infrstructure.Data.Entities.Product;
-
+using Core.Interface.Product;
 namespace Infrstructure.Repository.Product;
 
 public class Product : IProduct
@@ -55,7 +54,31 @@ public class Product : IProduct
 
     public void UpdateProduct(MProduct product)
     {
-        throw new NotImplementedException();
+          var tbl_Product=db.Tbl_Products.Find(product.Id);
+        tbl_Product.ProductName=product.ProductName;
+        tbl_Product.Brand=product.Brand;
+         tbl_Product.Price=product.Price;
+         tbl_Product.Category=product.Category;
+         tbl_Product.ItemWeigth=product.ItemWeigth;
+         tbl_Product.Description=product.Description;
+         db.SaveChanges();
     }
 
+
+
+    public MProduct GetProductById(int id)
+    {
+         var product=db.Tbl_Products.Find(id);
+         MProduct mProduct=new MProduct();
+         mProduct.ProductName=product.ProductName;
+         mProduct.Brand=product.Brand;
+         mProduct.Price=product.Price;
+         mProduct.Category=product.Category;
+         mProduct.ItemWeigth=product.ItemWeigth;
+         mProduct.Description=product.Description;
+         mProduct.Id=product.Id;
+         return mProduct;
+    }
+
+   
 }

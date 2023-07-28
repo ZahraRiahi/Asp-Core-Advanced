@@ -21,45 +21,65 @@
 		}
 	});
 });
-    document.addEventListener("DOMContentLoaded", function () {
-        const modal = document.getElementById("deleteProductModal");
-        const closeBtn = modal.querySelector(".close");
-        const confirmBtn = modal.getElementById("confirmDeleteBtn");
-        const cancelBtn = modal.getElementById("cancelDeleteBtn");
-        const deleteLinks = document.querySelectorAll(".delete");
+$(document).ready(function () {
+    var productIdToDelete;
 
-        function showModal() {
-            modal.style.display = "block";
-        }
+    // Capture the click event on the delete button
+    $(".delete").on("click", function () {
+        productIdToDelete = $(this).data("id");
+    });
 
-        function hideModal() {
-            modal.style.display = "none";
-        }
+    // When the delete confirmation modal is shown, update the form's action attribute with the appropriate delete URL
+    $("#deleteProductModal").on("show.bs.modal", function () {
+        var deleteUrl = "/home/deleteproduct/" + productIdToDelete;
 
-        deleteLinks.forEach(link => {
-            link.addEventListener("click", function (event) {
-                event.preventDefault();
-                const itemId = this.getAttribute("data-id");
-                showModal();
-
-                confirmBtn.addEventListener("click", function () {
-                   
-                    hideModal();
-                });
-
-                cancelBtn.addEventListener("click", function () {
-                    hideModal();
-                });
-            });
-        });
-
-        closeBtn.addEventListener("click", function () {
-            hideModal();
-        });
-
-        window.addEventListener("click", function (event) {
-            if (event.target === modal) {
-                hideModal();
+        $.ajax({
+            url: deleteUrl,
+            type: "GET",
+            success: function (data) {
+              
+            },
+            error: function (xhr, status, error) {
+                
             }
         });
     });
+
+
+    // Reset the productIdToDelete variable when the delete confirmation modal is hidden
+    $("#deleteProductModal").on("hidden.bs.modal", function () {
+        productIdToDelete = null;
+    });
+});
+
+
+$(document).ready(function () {
+    var productIdToEdit;
+
+    // Capture the click event on the edit button
+    $(".edit").on("click", function () {
+        productIdToEdit = $(this).data("id");
+    });
+
+    // When the edit confirmation modal is shown, update the form's action attribute with the appropriate delete URL
+    $("#editProductModal").on("show.bs.modal", function () {
+        var editUrl = "/home/editproduct/" + productIdToEdit;
+
+        $.ajax({
+            url: editUrl,
+            type: "GET",
+            success: function (data) {
+              
+            },
+            error: function (xhr, status, error) {
+                
+            }
+        });
+    });
+
+
+    // Reset the productIdToEdit variable when the edit confirmation modal is hidden
+    $("#editProductModal").on("hidden.bs.modal", function () {
+        productIdToEdit = null;
+    });
+});
