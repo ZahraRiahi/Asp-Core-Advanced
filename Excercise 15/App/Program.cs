@@ -1,5 +1,6 @@
 using Core.Interface.Product;
 using Infrstructure.Repository.Product;
+using AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,8 @@ builder.Services.AddControllersWithViews();
 //Add db context
 builder.Services.AddDbContext<Context>();
   builder.Services.AddScoped<IProduct,Product>();
+  //add AutoMapper
+  builder.Services.AddAutoMapper(typeof(MyMapper));
   var app = builder.Build();
 
 // Configure the HTTP request pipeline.

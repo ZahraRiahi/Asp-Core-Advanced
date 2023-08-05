@@ -5,15 +5,8 @@ public interface IProduct{
     //Create Product
     void AddProduct(MProduct product);
 
-    //Read Product
+    // get list of Product
     List<MProduct> GetAllProduct();
 
-    //Update Product
-    void UpdateProduct(MProduct product);
 
-    //Delete Product
-    void DeleteProduct(int id);
-
-       //GetById Product
-    MProduct GetProductById(int id);
 }

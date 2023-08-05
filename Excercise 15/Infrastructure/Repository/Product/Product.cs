@@ -1,84 +1,35 @@
 using Core.Domain.Product;
 using Infrstructure.Data.Entities.Product;
 using Core.Interface.Product;
+using System.Linq;
+using AutoMapper;
+// using Microsoft.EntityFrameworkCore;
+// using Microsoft.Extensions.DependencyInjection;
 namespace Infrstructure.Repository.Product;
 
 public class Product : IProduct
 {
-    private readonly Context db;
-    public Product(Context db)
+    private readonly Context _db;
+        private readonly IMapper _mapper;
+
+
+    public Product(Context db,IMapper mapper)
     {
-        this.db = db;
+        _db = db;
+        _mapper=mapper;
 
     }
     public void AddProduct(MProduct product)
     {
-        var tblProduct = new Tbl_Product();
-        tblProduct.ProductName = product.ProductName;
-        tblProduct.Brand = product.Brand;
-        tblProduct.Price = product.Price;
-        tblProduct.Category = product.Category;
-        tblProduct.ItemWeigth = product.ItemWeigth;
-        tblProduct.Description = product.Description;
-        db.Tbl_Products.Add(tblProduct);
-        db.SaveChanges();
-    }
-
-    public void DeleteProduct(int id)
-    {
-       var product=db.Tbl_Products.Find(id);
-       db.Tbl_Products.Remove(product);
-       db.SaveChanges();
-
+        Tbl_Product tbl_Product=_mapper.Map<Tbl_Product>(product);
+     
     }
 
     public List<MProduct> GetAllProduct()
     {
-        var listProducts=db.Tbl_Products.ToList();
-        List<MProduct> products=new List<MProduct>();
-        foreach (var item in listProducts)
-        {
-            MProduct product=new MProduct();
-            product.Id=item.Id;
-            product.ProductName=item.ProductName;
-            product.Brand=item.Brand;
-            product.Price=item.Price;
-            product.Category=item.Category;
-            product.ItemWeigth=item.ItemWeigth;
-            product.Description=item.Description;
-            products.Add(product);
-            
-        }
+        var listProducts=_db.Tbl_Products.ToList();
+        List<MProduct> products=_mapper.Map<List<MProduct>>(listProducts);
         return products;
     }
-
-    public void UpdateProduct(MProduct product)
-    {
-          var tbl_Product=db.Tbl_Products.Find(product.Id);
-        tbl_Product.ProductName=product.ProductName;
-        tbl_Product.Brand=product.Brand;
-         tbl_Product.Price=product.Price;
-         tbl_Product.Category=product.Category;
-         tbl_Product.ItemWeigth=product.ItemWeigth;
-         tbl_Product.Description=product.Description;
-         db.SaveChanges();
-    }
-
-
-
-    public MProduct GetProductById(int id)
-    {
-         var product=db.Tbl_Products.Find(id);
-         MProduct mProduct=new MProduct();
-         mProduct.ProductName=product.ProductName;
-         mProduct.Brand=product.Brand;
-         mProduct.Price=product.Price;
-         mProduct.Category=product.Category;
-         mProduct.ItemWeigth=product.ItemWeigth;
-         mProduct.Description=product.Description;
-         mProduct.Id=product.Id;
-         return mProduct;
-    }
-
    
 }
