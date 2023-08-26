@@ -1,54 +1,63 @@
-<div class="topnav" id="myTopnav">
+ <ul class="dropdown">
   @foreach(var item in StaticVariable.menu)
   {
+    
     if(item.ParentId==0)
     {
-      <a href="#home" class="active">@item.CategoryName</a>
-      <div class="dropdown">
-       
+      
+      <li><a href="#home" class="active">@item.CategoryName</a> 
+<ul>
       @foreach(var item2 in StaticVariable.menu)
   {
        if(item.Id==item2.ParentId)
     {
-       <button class="dropbtn">@item2.CategoryName 
-      <i class="fa fa-caret-down"></i>
-    </button>
-      <a href="#home" class="active">@item2.CategoryName</a>
-        <div class="dropdown-content">
+     <li><a ​  href="#home" class="active">@item2.CategoryName</a>
+     <ul>
       @foreach(var item3 in StaticVariable.menu){
           if(item2.Id==item3.ParentId)
     {
-       <a href="/home/Category?url=@item3.CategoryName " class="active">@item3.CategoryName</a>
+      <li><a href="/home/Category?url=@item3.CategoryName " class="active">@item3.CategoryName</a></li> 
       }
        
     }
-     </div>
+    </ul>
+    </li>
         
   }  
   }
-   </div>
+  </ul>
+  </li>
+  } 
+
   }
-  }
-  
-  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-</div>
+         </ul>
+   
+<br><br>
 
 <div style="padding-left:16px">
   <h2>Client</h2>
-  @* <h2>Responsive Topnav with Dropdown</h2> *@
-  @* <p>Resize the browser window to see how it works.</p>
-  <p>Hover over the dropdown button to open the dropdown menu.</p> *@
 </div>
-@* <a href="#news">News Home</a>
-  <a href="#contact">Contact</a>
-  <div class="dropdown">
-    <button class="dropbtn">Dropdown 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
-    </div>
-  </div> 
-  <a href="#about">About</a> *@
+
+ @* <ul class="dropdown">
+        <li><a href="#">Menu</a>
+            <ul>
+                <li><a href="">Nice Dropdown Menu</a></li>
+                <li><a href="">Submenu - 1</a></li>
+                <li><a href="#">Dropdown</a>
+                    <ul>
+                        <li><a href="">Submenu - 1</a></li>
+                        <li><a href="">Submenu - 2</a></li>
+                        <li><a href="#">Dropdown</a>
+                            <ul>
+                                <li><a href="">Submenu - 1</a></li>
+                                <li><a href="">Submenu - 2</a></li>
+                                <li><a href="">Submenu - 3</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="">Submenu - 3</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Submenu - 2</a></li>
+            </ul>
+        </li>
+    </ul> *@
