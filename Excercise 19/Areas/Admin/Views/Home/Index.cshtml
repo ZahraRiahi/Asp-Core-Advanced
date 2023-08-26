@@ -1,0 +1,51 @@
+﻿<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 20px;
+  margin-right: 100px;
+}
+
+td, th {
+  border: 1px solid Olive;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+<div style="padding:20px;margin-top:30px;margin-left:50px;text-align:center;border: 1px solid blue;margin:120px,height:80px;width:500px">
+   <form action="/admin/home/add" method="post">
+   <div >
+    <label>CategoryName:</label>
+<input required type="text" placeholder="CategoryName" name="CategoryName"></input><br><br>
+<label for="ParentName">ParentName:</label>
+<select name="ParentId" id="ParentName" asp-items="@ViewBag.Menu">
+  <option value="0">ParentName</option>
+  
+</select><br><br>
+<button type="submit" style=" background-color:Purple" >SaveCategory</button>
+   </div>
+   </form>
+   
+</div>
+<div>​<table>
+  <tr>
+    <th>CategoryName</th>
+    <th>ParentName</th>
+    <th>Action</th>
+  </tr>
+  @foreach(var item in ViewBag.Table){
+     <tr>
+    <td>@item.Name</td>
+    <td>@item.ParentName</td>
+    <td><button type="button" style=" background-color:Purple" >Edit</button>
+    <button type="button" style=" background-color:Purple" >Delete</button></td>
+  </tr>
+  }
+ 
+  
+</table></div>
