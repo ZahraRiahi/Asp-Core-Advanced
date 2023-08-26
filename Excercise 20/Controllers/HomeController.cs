@@ -17,7 +17,15 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.menu=_context.Tbl_Menus.OrderByDescending(x=>x.Id).ToList();
+    StaticVariable.menu=_context.Tbl_Menus.ToList();
+
+        // ViewBag.menu=_context.Tbl_Menus.ToList();
+        return View();
+    }
+    
+    public IActionResult Category(string url)
+    {
+        ViewBag.pro=url;
         return View();
     }
 

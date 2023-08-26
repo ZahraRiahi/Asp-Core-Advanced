@@ -1,14 +1,45 @@
 <div class="topnav" id="myTopnav">
-  @foreach(var item in ViewBag.menu)
+  @foreach(var item in StaticVariable.menu)
   {
     if(item.ParentId==0)
     {
       <a href="#home" class="active">@item.CategoryName</a>
-
+      <div class="dropdown">
+       
+      @foreach(var item2 in StaticVariable.menu)
+  {
+       if(item.Id==item2.ParentId)
+    {
+       <button class="dropbtn">@item2.CategoryName 
+      <i class="fa fa-caret-down"></i>
+    </button>
+      <a href="#home" class="active">@item2.CategoryName</a>
+        <div class="dropdown-content">
+      @foreach(var item3 in StaticVariable.menu){
+          if(item2.Id==item3.ParentId)
+    {
+       <a href="/home/Category?url=@item3.CategoryName " class="active">@item3.CategoryName</a>
+      }
+       
     }
+     </div>
+        
+  }  
+  }
+   </div>
+  }
   }
   
-  <a href="#news">News</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<div style="padding-left:16px">
+  <h2>Client</h2>
+  @* <h2>Responsive Topnav with Dropdown</h2> *@
+  @* <p>Resize the browser window to see how it works.</p>
+  <p>Hover over the dropdown button to open the dropdown menu.</p> *@
+</div>
+@* <a href="#news">News Home</a>
   <a href="#contact">Contact</a>
   <div class="dropdown">
     <button class="dropbtn">Dropdown 
@@ -20,13 +51,4 @@
       <a href="#">Link 3</a>
     </div>
   </div> 
-  <a href="#about">About</a>
-  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-</div>
-
-<div style="padding-left:16px">
-  <h2>Client</h2>
-  @* <h2>Responsive Topnav with Dropdown</h2> *@
-  @* <p>Resize the browser window to see how it works.</p>
-  <p>Hover over the dropdown button to open the dropdown menu.</p> *@
-</div>
+  <a href="#about">About</a> *@
