@@ -3466,11 +3466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (8)\\Asp-Core-Advanced\\Excercise 20\\Excercise 20.csproj",
+      "projectUniqueName": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 19\\Excercise 20.csproj",
       "projectName": "Excercise 20",
-      "projectPath": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (8)\\Asp-Core-Advanced\\Excercise 20\\Excercise 20.csproj",
+      "projectPath": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 19\\Excercise 20.csproj",
       "packagesPath": "C:\\Users\\z.tajmirriahi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (8)\\Asp-Core-Advanced\\Excercise 20\\obj\\",
+      "outputPath": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 19\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\z.tajmirriahi\\AppData\\Roaming\\NuGet\\NuGet.Config"

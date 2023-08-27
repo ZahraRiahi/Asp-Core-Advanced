@@ -17,7 +17,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.menu=_context.Tbl_Menus.OrderByDescending(x=>x.Id).ToList();
+        ViewBag.menu=_context.Tbl_Menus.ToList();
         return View();
     }
 

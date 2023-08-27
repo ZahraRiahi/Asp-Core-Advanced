@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZFhh+78NbMLkLZkF2q4NKXF78MPuqOfJzqJU9r8jW1t8QohyfEPP5RvfGy+tZOpioRE25TSS/Vq85iokUVaYA==",
+  "dgSpecHash": "pdEz3gsAryD9ShPTjGkZwVZfSaBbXNleC+9pcTypRVqhuX408S1lvoSQbFjC2k7pDgEJuWbVk0HWrr0uFCHNqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (8)\\Asp-Core-Advanced\\Excercise 20\\Excercise 20.csproj",
+  "projectFilePath": "C:\\Users\\z.tajmirriahi\\Desktop\\New folder (9)\\Asp-Core-Advanced\\Excercise 19\\Excercise 20.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\z.tajmirriahi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\z.tajmirriahi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

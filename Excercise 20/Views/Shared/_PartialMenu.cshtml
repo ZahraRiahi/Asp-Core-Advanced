@@ -1,63 +1,68 @@
- <ul class="dropdown">
-  @foreach(var item in StaticVariable.menu)
-  {
-    
-    if(item.ParentId==0)
-    {
-      
-      <li><a href="#home" class="active">@item.CategoryName</a> 
-<ul>
-      @foreach(var item2 in StaticVariable.menu)
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="main_navbar">
+      <div class="container-fluid" style="background-color:Sienna">
+        <a class="navbar-brand" href="#">Menu</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+             @foreach(var item in StaticVariable.menu)
+             {if(item.ParentId==0){
+                <li  class="nav-item dropdown">
+              <a class="nav-link active" aria-current="page" href="#">@item.CategoryName</a>
+
+                <ul class="dropdown-menu">
+            @foreach(var item2 in StaticVariable.menu)
   {
        if(item.Id==item2.ParentId)
     {
-     <li><a ​  href="#home" class="active">@item2.CategoryName</a>
-     <ul>
-      @foreach(var item3 in StaticVariable.menu){
-          if(item2.Id==item3.ParentId)
-    {
-      <li><a href="/home/Category?url=@item3.CategoryName " class="active">@item3.CategoryName</a></li> 
-      }
-       
-    }
-    </ul>
-    </li>
+                <li class="nav-item dropdown">
+                  <a
+                    class="dropdown-item dropdown-toggle"
+                    href="#"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                  >
+                    @item2.CategoryName
+                  </a>
+                  <ul class="dropdown-menu">
+                  @foreach(var item3 in StaticVariable.menu){
+            if(item2.Id==item3.ParentId)
+      {
+        <li><a class="dropdown-item" href="/home/Category?url=@item3.CategoryName">@item3.CategoryName</a></li>
         
-  }  
-  }
-  </ul>
-  </li>
-  } 
-
-  }
-         </ul>
-   
-<br><br>
-
-<div style="padding-left:16px">
-  <h2>Client</h2>
-</div>
-
- @* <ul class="dropdown">
-        <li><a href="#">Menu</a>
-            <ul>
-                <li><a href="">Nice Dropdown Menu</a></li>
-                <li><a href="">Submenu - 1</a></li>
-                <li><a href="#">Dropdown</a>
-                    <ul>
-                        <li><a href="">Submenu - 1</a></li>
-                        <li><a href="">Submenu - 2</a></li>
-                        <li><a href="#">Dropdown</a>
-                            <ul>
-                                <li><a href="">Submenu - 1</a></li>
-                                <li><a href="">Submenu - 2</a></li>
-                                <li><a href="">Submenu - 3</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="">Submenu - 3</a></li>
-                    </ul>
-                </li>
-                <li><a href="">Submenu - 2</a></li>
-            </ul>
-        </li>
-    </ul> *@
+        } 
+       
+      }
+     </ul>
+                       
+    </li>}}</ul>
+    </li>
+             }
+             }
+          </ul>
+ 
+          <form class="d-flex">
+            <input
+              class="form-control me-2"
+              type="search"
+              placeholder="Search"
+              aria-label="Search"
+            />
+            <button class="btn btn-outline-success" type="submit">
+              Search
+            </button>
+          </form>
+        </div>
+      </div>
+    </nav>
+    <br><br>
+  

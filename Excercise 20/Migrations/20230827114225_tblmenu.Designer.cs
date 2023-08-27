@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Excercise_20.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20230825200818_tblmenu")]
+    [Migration("20230827114225_tblmenu")]
     partial class tblmenu
     {
         /// <inheritdoc />

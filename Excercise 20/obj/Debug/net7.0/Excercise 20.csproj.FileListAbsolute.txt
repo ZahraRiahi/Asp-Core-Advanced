@@ -226,3 +226,79 @@ C:\Users\User\Desktop\dor\Asp-Core-Advanced\New folder (2)\Asp-Core-Advanced\Exc
 C:\Users\User\Desktop\dor\Asp-Core-Advanced\New folder (2)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.pdb
 C:\Users\User\Desktop\dor\Asp-Core-Advanced\New folder (2)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.genruntimeconfig.cache
 C:\Users\User\Desktop\dor\Asp-Core-Advanced\New folder (2)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\ref\Excercise 20.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.csproj.AssemblyReference.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.AssemblyInfoInputs.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.AssemblyInfo.cs
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.csproj.CoreCompileInputs.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.RazorAssemblyInfo.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.RazorAssemblyInfo.cs
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\refint\Excercise 20.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.pdb
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\appsettings.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Excercise 20.staticwebassets.runtime.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Excercise 20.exe
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Excercise 20.deps.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Excercise 20.runtimeconfig.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Excercise 20.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Excercise 20.pdb
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Humanizer.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\staticwebassets\msbuild.Excercise 20.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\staticwebassets\msbuild.build.Excercise 20.props
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Excercise 20.props
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Excercise 20.props
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\scopedcss\bundle\Excercise 20.styles.css
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\scopedcss\projectbundle\Excercise 20.bundle.scp.css
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.csproj.CopyComplete
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\Excercise 20.genruntimeconfig.cache
+C:\Users\z.tajmirriahi\Desktop\New folder (9)\Asp-Core-Advanced\Excercise 20\obj\Debug\net7.0\ref\Excercise 20.dll
